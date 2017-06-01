@@ -1,0 +1,5 @@
+---
+flows:
+- steps:
+  - kind: endpoint
+    uri: twitter-mention
